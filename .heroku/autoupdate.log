@@ -1,0 +1,2 @@
+Updating from 2.40.1... done, nothing to update
+helpers.rb:103: warning: Insecure world writable dir /usr/local/bin in PATH, mode 040777
